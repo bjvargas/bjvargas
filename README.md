@@ -21,6 +21,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Back-End+Developer)](https://git.io/typing-svg)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjvargas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
