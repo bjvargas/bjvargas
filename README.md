@@ -19,12 +19,13 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="60" height="60"/>&nbsp;
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Back-End+Developer)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjvargas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjvargas&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjvargas&hide=javascript,Blade,Vue,HTML,CSS,Shell&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **bjvargas/bjvargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
