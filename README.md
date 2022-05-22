@@ -8,16 +8,14 @@
   <a href="https://twitter.com/bjvargas_jar">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=bjvargas&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Welcome!
-  <img src="https://media1.giphy.com/media/anywqD5u93KuCtpPfH/giphy.gif" width="30px"/>
-</h1>
+</div id="body" align="center">
+  <br>
+- I’m currently working on 🐝 BEES Brasil 🐝, a company from AB InBev 🍻  
+  <br>
+- I'm Java Software Engineer! ☕
 </div>
 
-- I’m currently working on 🐝 BEES Brasil 🐝, a company from AB InBev 🍻
-- I'm Java Software Engineer! ☕
+
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
