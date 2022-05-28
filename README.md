@@ -30,11 +30,12 @@
 </div>
 
 
-
+ <br>  <br>
+  <br>
 
 <div align="center">
   <a href="https://github.com/arsvargas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjvargas&hide=javascript,Blade,Vue,HTML,CSS,Shell&layout=compact&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bjvargas&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjvargas&hide=javascript,Blade,Vue,HTML,CSS,Shell&layout=compact&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bjvargas&theme=dark"/>
     
 </div>
