@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
-<img src="https://github.com/bjvargas/bjvargas/blob/main/483525d6-8066-4d76-b195-d37d4c40c1d3.jpeg?raw=true" alt="Alt text" title="Optional title">
-
-  <img src="https://64.media.tumblr.com/e16fa92398972c97132d37d4c91338ba/tumblr_mjt4a9Zov41qbc06uo1_400.gifv" width="100"/>
+<img src="https://github.com/bjvargas/bjvargas/blob/main/483525d6-8066-4d76-b195-d37d4c40c1d3.jpeg?raw=true" >
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Back-end+developer;Java+Ecosystem)](https://git.io/typing-svg)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/bjvargas">
@@ -28,7 +28,12 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="60" height="60"/>&nbsp;
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Back-End+Developer)](https://git.io/typing-svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjvargas&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjvargas&hide=javascript,Blade,Vue,HTML,CSS,Shell&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div align="center">
+  <a href="https://github.com/arsvargas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjvargas&hide=javascript,Blade,Vue,HTML,CSS,Shell&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bjvargas&theme=dark"/>
+    
+</div>
