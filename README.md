@@ -1,9 +1,10 @@
 
 <div id="header" align="center">
 <img src="https://github.com/bjvargas/bjvargas/blob/main/483525d6-8066-4d76-b195-d37d4c40c1d3.jpeg?raw=true" >
+  <br><br>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Back-end+developer;Java+Ecosystem)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Back-end+developer;Java+Ecosystem)](https://git.io/typing-svg)
+  
 <div id="badges">
   <a href="https://www.linkedin.com/in/bjvargas">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
