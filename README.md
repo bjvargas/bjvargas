@@ -1,4 +1,7 @@
+
 <div id="header" align="center">
+<img src="https://github.com/bjvargas/bjvargas/blob/main/483525d6-8066-4d76-b195-d37d4c40c1d3.jpeg?raw=true" alt="Alt text" title="Optional title">
+
   <img src="https://64.media.tumblr.com/e16fa92398972c97132d37d4c91338ba/tumblr_mjt4a9Zov41qbc06uo1_400.gifv" width="100"/>
 
 <div id="badges">
@@ -11,8 +14,9 @@
 </div id="body" align="center">
   <br>
 - I’m currently working on 🐝 BEES Brasil 🐝, a company from AB InBev 🍻  
+  <br>  <br>
   <br>
-- I'm Java Software Engineer! ☕
+
 </div>
 
 
