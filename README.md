@@ -39,3 +39,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bjvargas&theme=dark"/>
     
 </div>
+  
+  <div align="right">
+   <a href= "https://www.youtube.com/watch?v=a1IBpsuCI14" target="_blank"><img src="https://github.com/bjvargas/bjvargas/blob/main/9080-24x24x32.png" title="?" alt="EasterEgg"/>&nbsp; </a>
+  </div>
