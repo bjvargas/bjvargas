@@ -35,11 +35,5 @@
 
 <div align="center">
   <a href="https://github.com/bjvargas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bjvargas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjvargas&layout=compact&langs_count=7&theme=radical"/>
-    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjvargas&layout=compact&langs_count=7&theme=radical&hide=blade,html,vue,css"/>    
 </div>
-  
-  <div align="right">
-   <a href= "https://youtu.be/a1IBpsuCI14?t=51" target="_blank"><img src="https://github.com/bjvargas/bjvargas/blob/main/9080-24x24x32.png" title="?" alt="EasterEgg"/>&nbsp; </a>
-  </div>
